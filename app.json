@@ -1,0 +1,12 @@
+{
+  "name": "react-native-gallery-app",
+  "displayName": "react-native-gallery-app",
+  "expo": {
+    "name": "react-native-gallery-app",
+    "slug": "react-native-gallery-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
